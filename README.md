@@ -64,3 +64,8 @@ With all the data’s transferred to mongodb, create a button to migrate all the
 
 
 With the given 10 Queries, create an if condition for all the questions to provide us with the expected output  in the streamlit application.
+
+**User Interface**
+
+![UI](https://github.com/Revanthkasinathan/Youtube-Data-Harvesting-And-Warehousing/assets/154004246/b3a76a1e-06f2-40bc-88b9-deb5eb98a1b4)
+
